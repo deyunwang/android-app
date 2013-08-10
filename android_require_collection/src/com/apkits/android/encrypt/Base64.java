@@ -27,9 +27,8 @@ public class Base64 {
 			-1, -1 };
 
 	/**
-	 * </br><b>description :</b>	Base64加密
-	 * </br><b>time :</b>			2012-8-4 下午2:46:13
-	 * @param data					需要加密的字节数组数据
+	 * Base64加密
+	 * @param data	需要加密的字节数组数据
 	 * @return
 	 */
 	public static String encode(byte[] data) {
