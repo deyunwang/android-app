@@ -18,14 +18,9 @@ package com.apkits.android.encrypt;
 import java.io.UnsupportedEncodingException;
 
 /**
- * <ul>
- * <li><b>name : </b>       Base64</li>
- * <li><b>description :</b> Base64加密解密工具</li>
- * <li><b>author : </b>     桥下一粒砂           </li>
- * <li><b>e-mail : </b>     chenyoca@gmail.com  </li>
- * <li><b>weibo : </b>      @桥下一粒砂          </li>
- * <li><b>date : </b>       2012-8-4 下午2:51:59      </li>
- * </ul>
+ * 加密解密工具
+ * @author Jack
+ * @date 2013-8-10 上午11:32:12
  */
 public class Base64 {
 	
